@@ -2,4 +2,4 @@
 
 a minimal new tab page that shows how many tabs you've opened today.
 
-[license](./LICENSE)
+[extension](https://addons.mozilla.org/en-US/firefox/addon/opened-tabs-today) - [license](./LICENSE)
